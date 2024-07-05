@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NBProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# DemoNB
+>>>>>>> ed32633fb8a22a64a3ae5fdb9477c5206fb1bd05
