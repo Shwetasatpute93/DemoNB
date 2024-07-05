@@ -1,0 +1,12 @@
+
+@media (min-width: 768px) {
+    .container, .container-md, .container-sm {
+        max-width: 670px;
+    }
+}
+
+.card{
+    border-left: solid #f4511e;
+    // height: 100vw;
+    box-shadow: 4px 2px 16px #cfcece;
+}
